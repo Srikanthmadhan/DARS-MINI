@@ -10,6 +10,6 @@ services:
       - key: SUPABASE_URL
         value: https://dcbpxliwqygdmwdoevtw.supabase.co
       - key: SUPABASE_SERVICE_KEY
-        value: YOUR_SUPABASE_SERVICE_KEY
+        value: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6ImRjYnB4bGl3cXlnZG13ZG9ldnR3Iiwicm9sZSI6InNlcnZpY2Vfcm9sZSIsImlhdCI6MTc1MjcyNDgxOCwiZXhwIjoyMDY4MzAwODE4fQ.HfcBNKl5ZpTMf4IA7h-kHKqASpeY3rffG2LK9Ki6VbE
       - key: PORT
-        value: 3000 
+        value: 3000
